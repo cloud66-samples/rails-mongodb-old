@@ -42,7 +42,7 @@ GEM
     coffee-script-source (1.7.1)
     daemons (1.1.9)
     erubis (2.7.0)
-    eventmachine (1.0.3)
+    eventmachine (1.0.8)
     execjs (2.2.1)
     haml (4.0.5)
       tilt
