@@ -2,18 +2,24 @@ production:
     rails: 
         configuration:
             use_asset_pipeline: true
+	    ruby_version: 2.1.10
     mongodb:
-        version: 2.6.11
+        configuration:
+            version: 2.6.11
 
 development: 
     rails: 
         configuration:
             use_asset_pipeline: true
+	    ruby_version: 2.1.10
     mongodb:
-        version: 2.6.11
+        configuration:
+            version: 2.6.11
 staging: 
     rails: 
         configuration:
             use_asset_pipeline: true
+	    ruby_version: 2.1.10
     mongodb:
-        version: 2.6.11
+        configuration:
+            version: 2.6.11
