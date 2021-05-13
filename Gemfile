@@ -4,7 +4,7 @@ gem 'rails', '3.2.11'
 
 gem 'thin', ">= 1.5.0"
 gem 'mongoid', " >= 3.0.14"
-gem 'haml', ">= 3.1.7"
+gem 'haml', ">= 3.1.7", "< 5.0.0"
 gem 'bson_ext'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
