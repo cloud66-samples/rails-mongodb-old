@@ -3,6 +3,7 @@ production:
         configuration:
             use_asset_pipeline: true
             ruby_version: 2.1.10
+            node_version: 0.10.29
     mongodb:
         configuration:
             version: 2.6.11
@@ -12,6 +13,7 @@ development:
         configuration:
             use_asset_pipeline: true
             ruby_version: 2.1.10
+            node_version: 0.10.29
     mongodb:
         configuration:
             version: 2.6.11
@@ -20,6 +22,7 @@ staging:
         configuration:
             use_asset_pipeline: true
             ruby_version: 2.1.10
+            node_version: 0.10.29
     mongodb:
         configuration:
             version: 2.6.11
